@@ -45,6 +45,8 @@ dbdiagram.io	Visual ER diagram creation
 VS Code	Editing SQL files and markdown
 DBeaver (optional)	GUI SQL client for running and visualizing queries
 Git & GitHub	Version control and project sharing
+
+
 Github Link:https://github.com/aishu042006/Database-Projects/edit/main/README.md
 
 🧠 Skills Gained
